@@ -1,7 +1,4 @@
-import React from 'react'
 
-export default function Form() {
-    return (
 <link rel="stylesheet" href="styles.css">
 <div style="position: absolute; left: 35%">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
@@ -36,5 +33,3 @@ export default function Form() {
 
       </form>
         </div>
-)
-}
